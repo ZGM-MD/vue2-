@@ -1,0 +1,2 @@
+初学者用vue2制作的一些小Demo
+包含vue基础语法，router、vue-resource、axios、vuex等知识
